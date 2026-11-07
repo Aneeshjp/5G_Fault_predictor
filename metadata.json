@@ -1,0 +1,6 @@
+{
+  "name": "Team Dynamites - 5G Testbed AI Fault Prediction",
+  "description": "Autonomous proactive 5G and O-RAN cellular fault forecasting, zero-day multivariate anomaly detection, operational risk scoring, and real-time mitigation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
